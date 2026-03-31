@@ -1,14 +1,14 @@
 ![alt XOOPS CMS](https://xoops.org/images/logoXoops4GithubRepository.png)
-# XOOPS Core 2.7.x
+# XOOPS Core 2.8.x
 
 [![Software License](https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat)](docs/license.txt)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/XOOPS/XoopsCore27.svg?style=flat)](https://scrutinizer-ci.com/g/XOOPS/XoopsCore27/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/XOOPS/XoopsCore27.svg?style=flat)](https://scrutinizer-ci.com/g/XOOPS/XoopsCore27)
 [![Latest Version](https://img.shields.io/github/release/XOOPS/XoopsCore27.svg?style=flat)](https://github.com/XOOPS/XoopsCore27/releases)
 
-> **Note:** This repository contains the core code of the XOOPS Core 2.7.x. Our next generation is currently under development on [GitHub](https://github.com/XOOPS/XoopsCore).
+> **Note:** This repository contains the core code of the XOOPS Core 2.8.x. Our next generation is currently under development on [GitHub](https://github.com/XOOPS/XoopsCore).
 
-To install this version of XOOPS 2.7.x follow the instructions in [The XOOPS Install & Upgrade Guide](https://xoops.gitbook.io/xoops-install-upgrade/)
+To install this version of XOOPS 2.8.x follow the instructions in [The XOOPS Install & Upgrade Guide](https://xoops.gitbook.io/xoops-install-upgrade/)
 
 For more information on building a web site using XOOPS, visit the main [XOOPS Web Site](https://xoops.org).
 
