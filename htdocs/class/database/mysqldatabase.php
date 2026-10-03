@@ -467,9 +467,16 @@ abstract class XoopsMySQLDatabase extends XoopsDatabase
     /**
      * Test the passed result to determine if it is a valid result set
      *
+     * The assertions tell PHPStan and Psalm what the check means, so a guard
+     * such as if (!$db->isResultSet($result)) { return; } narrows $result to a
+     * mysqli_result for the fetch methods that follow.
+     *
      * @param mixed $result value to test
      *
      * @return bool true if $result is a database result set, otherwise false
+     *
+     * @phpstan-assert-if-true \mysqli_result $result
+     * @psalm-assert-if-true \mysqli_result $result
      */
     public function isResultSet($result)
     {
